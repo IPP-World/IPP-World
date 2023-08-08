@@ -2,16 +2,16 @@
   <img src="https://media.giphy.com/media/eIrFgsuPjwUhYv4acC/giphy.gif" width="100"/>
 </div>
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/indra-paneru-a773b0170/">
+  <a href="https://www.linkedin.com/in/indra-paneru-a773b0170/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.instagram.com/indrappaneru/">
+  <a href="https://www.instagram.com/indrappaneru/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-white?style=for-the-badge&logo=instagram&logoColor=red" alt="Instagram Badge"/>
   </a>
-  <a href="https://twitter.com/IndraPaneru2">
+  <a href="https://twitter.com/IndraPaneru2" target="_blank">
     <img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=X&logoColor=white" alt="X Badge"/>
   </a>
-  <a href="https://www.behance.net/indrappaneru">
+  <a href="https://www.behance.net/indrappaneru" target="_blank">
     <img src="https://img.shields.io/badge/behance-white?style=for-the-badge&logo=behance&logoColor=black" alt="Behance Badge"/>
   </a>
  
