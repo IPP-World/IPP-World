@@ -20,13 +20,15 @@
   <img src="https://komarev.com/ghpvc/?username=IPP-World&style=flat-square&color=blue" alt=""/>
 </div>
 <div align="center">
+  <h2>
+  Designing Dreams</h2>
   <h1>
-  hey there
+    Hello there!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
   </div>
   <div align="center">
-  <img src="https://media.giphy.com/media/9LQHvkbIzTSLe/giphy.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/9LQHvkbIzTSLe/giphy.gif"/>
 </div>
 ---
 
