@@ -28,15 +28,17 @@
   <div align="center">
   <img src="https://media.giphy.com/media/9LQHvkbIzTSLe/giphy.gif"/>
 </div>
+<div align="center"> --- </div>
+
+
+<h3 align="center">I am a Web Design, Product Design and UI/UX Enthusiast.</h3>
+
 ---
 
-### :man_technologist: About Me :
-I am a Web Design, Product Design and UI/UX Enthusiast.
-
----
-
-### :hammer_and_wrench: Languages and Tools :
-<div>
+### 
+<h3 align="center">Languages and Tools : </h3>
+</br>
+<div align="center">
 
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-line.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -50,5 +52,8 @@ I am a Web Design, Product Design and UI/UX Enthusiast.
  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
 </div>
 
+---
+###
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ipp-world&theme=dark&background=000000)](https://git.io/streak-stats)
   
  
