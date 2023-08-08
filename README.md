@@ -54,6 +54,7 @@
 
 ---
 ###
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ipp-world&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ipp-world&theme=prussian&card_width=900)](https://git.io/streak-stats)
+
   
  
