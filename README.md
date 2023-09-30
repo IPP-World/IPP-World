@@ -1,6 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/eIrFgsuPjwUhYv4acC/giphy.gif" width="100"/>
 </div>
+[![An image of @ippworld's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ippworld)](https://holopin.io/@ippworld)
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/indra-paneru-a773b0170/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
