@@ -54,6 +54,24 @@
 
 ---
 ###
+### 📊  Stats
+<p align="center">
+    <img 
+        align="center"
+        height="150vh"
+        alt="Most-Used-Language"
+        src="https://github-readme-stats.vercel.app/api/top-langs?username=dikshyant3&show_icons=true&theme=dark&layout=compact"
+    />
+    <img
+        align="center"
+        height="150vh"
+        alt="Github-Stats"
+        src="https://github-readme-stats.vercel.app/api?username=dikshyant3&show_icons=true&theme=dark"
+    />
+</p>
+
+<p align="center"><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=dikshyant3&theme=radical&hide_border=true)](https://git.io/streak-stats"/></p>
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ipp-world&theme=prussian&card_width=900)](https://git.io/streak-stats)
 
 [![An image of @ippworld's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ippworld)](https://holopin.io/@ippworld)
