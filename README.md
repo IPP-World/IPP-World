@@ -56,12 +56,6 @@
 ###
 ### 📊  Stats
 <p align="center">
-    <img 
-        align="center"
-        height="150vh"
-        alt="Most-Used-Language"
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=IPP-World&show_icons=true&theme=dark&layout=compact"
-    />
     <img
         align="center"
         height="150vh"
