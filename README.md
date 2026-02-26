@@ -31,7 +31,7 @@
 <div align="center"> --- </div>
 
 
-<h3 align="center">I am a Web Design, Product Design and UI/UX Enthusiast.</h3>
+<h3 align="center">I design interfaces and write code.</h3>
 
 ---
 
