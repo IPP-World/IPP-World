@@ -27,11 +27,7 @@
   </div>
   <div align="center">
   <img src="https://media.giphy.com/media/9LQHvkbIzTSLe/giphy.gif"/>
-</div>
-<div align="center"> --- </div>
-
-
-<h3 align="center">I design interfaces and write code.</h3>
+  </div>
 
 ---
 
