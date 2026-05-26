@@ -51,14 +51,6 @@
 ---
 ###
 ### 📊  Stats
-<p align="center">
-    <img
-        align="center"
-        height="150vh"
-        alt="Github-Stats"
-        src="https://github-readme-stats.vercel.app/api?username=IPP-World&show_icons=true&theme=dark"
-    />
-</p>
 
 <p align="center"><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=IPP-World&theme=radical&hide_border=true)](https://git.io/streak-stats"/></p>
 
